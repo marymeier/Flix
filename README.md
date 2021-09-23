@@ -17,10 +17,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 <img src="http://g.recordit.co/XgJ3d5svvB.gif" width=250><br>
 
-### Notes
-Describe any challenges encountered while building the app. I did not run into any challenges building this app. I found the instructions to be very straight-forward and easy to follow.
----
-
 ## Flix Part 1
 
 ### User Stories
@@ -36,7 +32,3 @@ Describe any challenges encountered while building the app. I did not run into a
 
 ### App Walkthrough GIF
 <img src="http://g.recordit.co/kEbB8FMMf9.gif" width=250><br>
-
-### Notes
-Describe any challenges encountered while building the app.
-While building this app, my main challenge was learning how to create cells. After watching the tutorials a few times, though, I feel that I have a much better understanding on how to create them.
